@@ -6,6 +6,6 @@ Dcl-s variable char(52);
 
 variable = 'Bienvenue chez mémé et tous ses € !';
 
-Dsply variable;
+Dsply toto;
 
 Return;
